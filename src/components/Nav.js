@@ -1,12 +1,17 @@
 import React from 'react';
-import { Button } from './styled/styledNav';
+import { StickyNav, Button, Title } from './styled/styledNav';
+import logo from '../logo.png';
+import CollapsibleDiv from './CollapsibleDiv';
 
 const Nav = () => {
     return (
-        <nav>
-            <h1>Wunga Bunga</h1>
-            <Button>Hello</Button>
-        </nav>
+        <StickyNav>
+            <CollapsibleDiv>
+                <Button>List Manager</Button>
+                <Button>Armory</Button>
+                <Button>Territories</Button>
+            </CollapsibleDiv>
+        </StickyNav>
     );
 }
 
