@@ -9,7 +9,7 @@ border: 1px solid black;
 > p {
     font-size: .6rem;
     text-align: center;
-    align-self: center;
+    vertical-align: center;
     margin: 0;
     padding: .5rem 0;
 }
@@ -20,16 +20,19 @@ const CardTitle = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: 0;
-    > h1 {
+    > div > h1 {
         margin: 0;
+        display: inline;
     }
     > h2 {
         margin: 0;
-        vertical-align: baseline;
         text-align: right;
+        align-self: baseline;
     }
-    >p {
+    > div > p {
         margin: 0;
+        margin-left: 1rem;
+        display: inline;
     }
 `
 

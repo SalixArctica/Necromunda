@@ -16,8 +16,11 @@ const UnitCard = props => {
     return (
         <CardWrapper>
             <CardTitle>
-                <h1>{props.unit.name}</h1>
-                <h2>rank: {props.unit.rank}</h2>
+                <div>
+                    <h1>{props.unit.name}</h1>
+                    <p>xp: {props.unit.xp}</p>
+                </div>
+                <h2>{props.unit.rank}</h2>
             </CardTitle>
             <CardRow rows='12'>
                 <p>M</p><p>WS</p><p>BS</p><p>S</p><p>T</p><p>W</p><p>I</p><p>A</p><p>Ld</p><p>Cl</p><p>Will</p><p>Int</p>
@@ -41,6 +44,7 @@ const UnitCard = props => {
                     <WeaponCard weapon={weapon}/>
                 )
             })}
+            <p>{props.unit.battleGear ? 'battle-gear: ' + props.unit.battleGear.join(', ') : ''}</p>
             <p>{props.unit.skills ? 'skills: ' + props.unit.skills.join(', ') : ''}</p>
         </CardWrapper>
     );

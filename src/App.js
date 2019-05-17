@@ -57,6 +57,9 @@ let bob = {
         'Template'
       ],
     }
+  ],
+  battleGear: [
+    "suspensors"
   ]
 }
 
