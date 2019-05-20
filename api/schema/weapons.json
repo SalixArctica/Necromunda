@@ -1,0 +1,498 @@
+[
+    {
+		"name": "Autopistol",
+		"SR": "4",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "10",
+		"Traits": [
+            "Rapid Fire (1)", "Sidearm"
+        
+		]
+	},
+	{
+        "name": "Compact autopistol (gun skull)" ,
+		"SR": "4",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "2",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "",
+		"Traits": [
+            "Rapid Fire (1)", "Scarce"
+        
+		]
+	},
+	{
+		"name": "Bolt pistol",
+		"SR": "6",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "4",
+		"AP": "-1",
+		"D": "2",
+		"Ammo": "6+",
+        "price": "45",
+		"Traits": [
+            "Sidearm"
+        
+		]
+	},
+	{
+		"name": "Hand flamer",
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "5+",
+		"price": "75",
+		"Traits": [
+			"Blaze", "Template"
+		]
+	},
+	{
+		"name": "Laspistol",
+		"SR": "8",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "2+",
+		"price": "10",
+		"Traits": [
+			"Plentiful", "Sidearm"
+		]
+	},
+	{
+		"name": "Las sub-carbine",
+		"SR": "4",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "4+",
+		"price": "",
+		"Traits": [
+			"Plentiful", "Rapid Fire (1)", "Sidearm"
+		]
+	},
+	{
+		"name": "Needle Pistol",
+		"SR": "4",
+		"LR": "9",
+		"SA": "+2",
+		"LA": "-",
+		"Str": "4",
+		"AP": "-1",
+		"D": "-",
+		"Ammo": "6+",
+		"price": "30",
+		"Traits": [
+			"Scarce Sidearm", "Silent", "Toxin"
+		]
+	},
+	{
+		"name": "Reclaimed autopistol",
+		"SR": "4",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "5+",
+        "price": "5",
+		"Traits": [
+            "Rapid Fire (1)", "Sidearm"
+		]
+	},
+	{
+		"name": "Web pistol",
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "4",
+		"AP": "-",
+		"D": "-",
+		"Ammo": "6+",
+		"price": "90",
+		"Traits": [
+			"Silent Template", "Web"
+		]
+	},
+	{
+        "name": "Web projector(Van Saar Cyberachnid)", 
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "2",
+		"AP": "-",
+		"D": "-",
+		"Ammo": "6+",
+		"price": "",
+		"Traits": [
+			"Scarce Template", "Web"
+		]
+	},
+	{
+		"name": "Autogun",
+		"SR": "8",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "15",
+		"Traits": [
+            "Rapid Fire (1)"
+		]
+	},
+	{
+		"name": "Boltgun",
+		"SR": "12",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "4",
+		"AP": "-1",
+		"D": "2",
+		"Ammo": "6+",
+        "price": "55",
+		"Traits": ["Rapid Fire (1)"
+		]
+	},
+	{
+		"name": "Lasgun",
+		"SR": "18",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "2+",
+        "price": "15",
+		"Traits": [
+            "Plentiful"
+		]
+	},
+	{
+		"name": "Las carbine",
+		"SR": "10",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "4+",
+		"price": "",
+		"Traits": [
+			"Plentiful", "Rapid Fire (1)"
+		]
+	},
+	{
+		"name": "Autogun",
+		"SR": "8",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "5+",
+        "price": "",
+		"Traits": [
+            "Rapid Fire (1)"
+		]
+	},
+	{
+		"name": "Reclaimed autogun",
+		"SR": "8",
+		"LR": "24",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "5+",
+        "price": "10",
+		"Traits": [
+            "Rapid Fire (1)"
+		]
+	},
+	{
+		"name": "Sawn-off shotgun",
+		"SR": "4",
+		"LR": "8",
+		"SA": "+2",
+		"LA": "-",
+		"Str": "3",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "6+",
+		"price": "15",
+		"Traits": [
+			"Plentiful", "Scattershot"
+		]
+	},
+	{
+		"name": "Stub cannon",
+		"SR": "9",
+		"LR": "18",
+		"SA": "-",
+		"LA": "-",
+		"Str": "5",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "3+",
+        "price": "",
+		"Traits": [
+            "Knockback"
+		]
+	},
+	{
+		"name": "Throwing knives Sx2 Sx4 -",
+		"SR": "-1",
+		"LR": "-",
+		"SA": "-1",
+		"LA": "-",
+		"Str": "5+",
+		"AP": "",
+        "price": "",
+		"Traits": [
+            "Scarce", "Silent", "Toxin"
+		]
+	},
+	{
+		"name": "Long las",
+		"SR": "18",
+		"LR": "36",
+		"SA": "-",
+		"LA": "+1",
+		"Str": "4",
+		"AP": "-",
+		"D": "1",
+		"Ammo": "2+",
+        "price": "20",
+		"Traits": [ 
+            "Plentiful"
+		]
+	},
+	{
+		"name": "Long rifle",
+		"SR": "24",
+		"LR": "48",
+		"SA": "-",
+		"LA": "+1",
+		"Str": "4",
+		"AP": "-1",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "30",
+		"Traits": [ 
+            "Knockback"
+		]
+	},
+	{
+		"name": "Meltagun",
+		"SR": "6",
+		"LR": "12",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "8",
+		"AP": "-4",
+		"D": "3",
+		"Ammo": "4+",
+		"price": "135",
+		"Traits": [
+			"Melta", "Scarce"
+		]
+	},
+	{
+		"name": "Needle Rifle",
+		"SR": "9",
+		"LR": "18",
+		"SA": "+2",
+		"LA": "-",
+		"Str": "-",
+		"AP": "-2",
+		"D": "-",
+		"Ammo": "6+",
+		"price": "40",
+		"Traits": [
+			"Scarce Silent", "Toxin"
+		]
+	},
+	{
+        "name": "Nightshade Chem-Thrower", 
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "-",
+		"AP": "-",
+		"D": "-",
+		"Ammo": "5+",
+		"price": "",
+		"Traits": [
+            "Gas Silent", "Template"
+        
+		]
+	},
+	{
+		"name": "Rad gun",
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "2",
+		"AP": "-2",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "",
+		"Traits": [
+            "Rad-phage", "Template"
+		]
+	},
+	{
+		"name": "Web gun",
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "5",
+		"AP": "-",
+		"D": "-",
+		"Ammo": "5+",
+		"price": "125",
+		"Traits": [
+			"Silent Template", "Web"
+		]
+	},
+	{
+		"name": "Harpoon launcher",
+		"SR": "6",
+		"LR": "18",
+		"SA": "+2",
+		"LA": "-",
+		"Str": "5",
+		"AP": "-3",
+		"D": "1",
+		"Ammo": "5+",
+		"price": "110",
+		"Traits": [
+			"Drag", "Impale", "Scarce"
+		]
+	},
+	{
+		"name": "Heavy bolter",
+		"SR": "18",
+		"LR": "36",
+		"SA": "+1",
+		"LA": "-",
+		"Str": "5",
+		"AP": "-2",
+		"D": "2",
+		"Ammo": "6+",
+        "price": "160",
+		"Traits": [
+            "Rapid Fire (2)", "Unwieldy"
+		]
+	},
+	{
+		"name": "Heavy flamer",
+		"SR": "-",
+		"LR": "T",
+		"SA": "-",
+		"LA": "-",
+		"Str": "5",
+		"AP": "-2",
+		"D": "1",
+		"Ammo": "5+",
+		"price": "195",
+		"Traits": [
+			"Blaze Template", "Unwieldy"
+		]
+	},
+	{
+		"name": "Heavy stubber",
+		"SR": "20",
+		"LR": "40",
+		"SA": "-",
+		"LA": "-1",
+		"Str": "4",
+		"AP": "-1",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "130",
+		"Traits": [
+            "Rapid Fire (2)", "Unwieldy"
+		]
+	},
+	{
+		"name": "Lascannon",
+		"SR": "24",
+		"LR": "48",
+		"SA": "-",
+		"LA": "+1",
+		"Str": "10",
+		"AP": "-3",
+		"D": "3",
+		"Ammo": "4+",
+		"price": "155",
+		"Traits": [
+			"Knockback", "Unwieldy"
+		]
+	},
+	{
+		"name": "Mining laser",
+		"SR": "18",
+		"LR": "24",
+		"SA": "-",
+		"LA": "-1",
+		"Str": "9",
+		"AP": "-3",
+		"D": "3",
+		"Ammo": "3+",
+        "price": "125",
+		"Traits": [
+            "Unwieldy"
+		]
+	},
+	{
+		"name": "Rad cannon",
+		"SR": "16",
+		"LR": "32",
+		"SA": "-",
+		"LA": "-1",
+		"Str": "2",
+		"AP": "-2",
+		"D": "1",
+		"Ammo": "4+",
+        "price": "",
+		"Traits": [
+            "Blast (5)", "Rad-phage", "Unwieldy"
+    	]
+    }
+]
